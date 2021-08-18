@@ -24,9 +24,6 @@ Some sites has content that can not be copied so it is useful to get it's conten
 # Requirements
 Python 3.
 
-# Frameworks or technology
-smth
-
 # Features
 
 ## take any url 
@@ -40,7 +37,7 @@ dfsfr
 dsmfklsdmnf
 ```
 # Credits
-Alexey Posikera
+Alexey Posikera, Alisa Ivanova
 
 # Liseince
 free
