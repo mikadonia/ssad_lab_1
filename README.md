@@ -4,7 +4,7 @@
 A Program to take any URL as User Input and and output the content of the URL in a word/text file.
 
 # Screenshots
-[u](urlparser.png)
+![](urlparser.png)
 
 # Getting Started
 Terminal is the easiest way to start. It shows an example of using a the url.
