@@ -33,6 +33,8 @@ Run 'python3 urlparser.py -u http://google.com/ -f google.html' to get google pa
  If everything is okay, the content will be placed in the file specified as an argument
 
 # Code example
+
+The function that takes url and get contents:
 ```
 def getDataByURL(url, post):
     data = ''
