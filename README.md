@@ -19,12 +19,8 @@ Some sites has content that can not be copied so it is useful to get it's conten
    ```bash
    pip3 install -r requirements.txt
    ```
-3. Run setup from the repository root directory
-    ```bash
-    python3 setup.py install
-    ``` 
-3. Download app.py
-4. Run 'python --app.py'
+3. Download urlpasser.py
+4. Run 'python --urlpasser.py'
 
 # Requirements
 Python 3.
