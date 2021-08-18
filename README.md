@@ -21,7 +21,7 @@ Sometimes you want to get a page content without browser, so, you could use our 
 3. Run `python3 urlparser.py -h` to show help menu
 
 # Requirements
-Python 3
+* Python 3
 
 ## Take any url 
 
