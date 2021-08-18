@@ -1,7 +1,7 @@
 # Project 7: URL to word/text convertor
 
 # Description
-A Program to take any URL as User Input and and output the content of the the URL in a word/text file.
+A Program to take any URL as User Input and and output the content of the URL in a word/text file.
 
 # Screenshots
 [image_1](url)
@@ -10,7 +10,8 @@ A Program to take any URL as User Input and and output the content of the the UR
 PyCharm is the easiest way to start. It shows an example of using a the url.
 
 # Motivation
-Some sites has content That can not be copied so it is udeful get it's content by word/text file.
+Some sites has content that can not be copied so it is useful to get it's content by word/text file.
+
 
 # Installation
 1. Clone this repository
