@@ -7,10 +7,10 @@ A Program to take any URL as User Input and and output the content of the the UR
 [image_1](url)
 
 # Getting Started
-PyCharm is the easiest way to start. It shows an example of using a the url 
+PyCharm is the easiest way to start. It shows an example of using a the url.
 
 # Motivation
-Some sites has content That can not be copied so it is udeful get it's content by word/text file
+Some sites has content That can not be copied so it is udeful get it's content by word/text file.
 
 # Installation
 1. Clone this repository
@@ -26,7 +26,7 @@ Some sites has content That can not be copied so it is udeful get it's content b
 4. Run 'python --app.py'
 
 # Requirements
-Python 3
+Python 3.
 
 # Frameworks or technology
 smth
