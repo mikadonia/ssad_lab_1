@@ -27,9 +27,8 @@ Sometimes you want to get a page content without browser, so, you could use our 
 
 Example:
 
-```
-Run 'python3 urlparser.py -u http://google.com/ -f google.html' to get google page content
-```
+Run `python3 urlparser.py -u http://google.com/ -f google.html` to get google page content
+
  If everything is okay, the content will be placed in the file specified as an argument
 
 # Code example
